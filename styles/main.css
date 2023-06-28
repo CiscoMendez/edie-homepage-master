@@ -254,7 +254,7 @@ footer{
 .form-control {
     display: block;
     width: 100%;
-    padding: 1rem 1.312rem;
+    padding: 1.1rem 1.312rem;
     font-weight: 400;
     line-height: 1.5;
     color: var(--ed-body-color);
